@@ -8,13 +8,14 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Cabin&family=Josefin+Sans&family=Outfit&family=Zen+Kaku+Gothic+New&display=swap" rel="stylesheet">
-    <title>COVID in Indonesia</title>
+    <title>COVID di Indonesia</title>
 </head>
 <body>
     <div id="container">
         <!-- ----- HEADER ----- -->
         <div id="header-wrapper">
             <h1>Hello World</h1>
+            <h2>My Name is Jasmine</h2>
             <div id="header" class="container">
                 <div id="logo">
                     <div class="navbar">
