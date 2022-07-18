@@ -14,7 +14,7 @@
     <div id="container">
         <!-- ----- HEADER ----- -->
         <div id="header-wrapper">
-            
+            <h1>Hello World</h1>
             <div id="header" class="container">
                 <div id="logo">
                     <div class="navbar">
